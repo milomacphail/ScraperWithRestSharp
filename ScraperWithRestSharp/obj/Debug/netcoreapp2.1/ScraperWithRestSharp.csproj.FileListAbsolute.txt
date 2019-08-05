@@ -1,0 +1,11 @@
+C:\Users\milom\source\repos\ScraperWithRestSharp\bin\Debug\netcoreapp2.1\ScraperWithRestSharp.deps.json
+C:\Users\milom\source\repos\ScraperWithRestSharp\bin\Debug\netcoreapp2.1\ScraperWithRestSharp.runtimeconfig.json
+C:\Users\milom\source\repos\ScraperWithRestSharp\bin\Debug\netcoreapp2.1\ScraperWithRestSharp.runtimeconfig.dev.json
+C:\Users\milom\source\repos\ScraperWithRestSharp\bin\Debug\netcoreapp2.1\ScraperWithRestSharp.dll
+C:\Users\milom\source\repos\ScraperWithRestSharp\obj\Debug\netcoreapp2.1\ScraperWithRestSharp.csprojAssemblyReference.cache
+C:\Users\milom\source\repos\ScraperWithRestSharp\obj\Debug\netcoreapp2.1\ScraperWithRestSharp.csproj.CoreCompileInputs.cache
+C:\Users\milom\source\repos\ScraperWithRestSharp\obj\Debug\netcoreapp2.1\ScraperWithRestSharp.AssemblyInfoInputs.cache
+C:\Users\milom\source\repos\ScraperWithRestSharp\obj\Debug\netcoreapp2.1\ScraperWithRestSharp.AssemblyInfo.cs
+C:\Users\milom\source\repos\ScraperWithRestSharp\bin\Debug\netcoreapp2.1\ScraperWithRestSharp.pdb
+C:\Users\milom\source\repos\ScraperWithRestSharp\obj\Debug\netcoreapp2.1\ScraperWithRestSharp.dll
+C:\Users\milom\source\repos\ScraperWithRestSharp\obj\Debug\netcoreapp2.1\ScraperWithRestSharp.pdb
